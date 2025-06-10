@@ -1,0 +1,11 @@
+.home {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #f9fafb;
+  font-size: 24px;
+  font-weight: bold;
+}
